@@ -1,15 +1,4 @@
 ---
-title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '46.	Wang, X.#; Ou, P.#; Wicks, J.#; Xie, Y.#; Wang, Y.#; Li, J.; Tam J.; Ren, D.; Howe, J. Y.; Wang, Z.; Ozden, A.; Finfrock, Y. Z. 6,7, Xu, Y.; Li, Y.; Rasouli, A. S.; Bertens K.; Ip, A. H.; Graetzel, M.; Sinton D.; Sargent, E. H.* Gold-in-copper at low *CO coverage enables efficient electromethanation of CO2. Nat. Commun. 2021, 12, 3387.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
